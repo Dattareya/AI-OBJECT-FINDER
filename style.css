@@ -1,0 +1,30 @@
+.AI
+{
+    background-color: rgb(8, 83, 58);
+    color: rgb(97, 181, 255);
+    font-size: 40px;
+    font-family: "comic sans ms";
+    font-style: initial;
+    font-weight: bolder;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.notes
+{
+    color: rgb(0, 255, 255);
+    font-size: 30px;
+    font-family: French Script MT;
+}
+body
+{
+     background-image: url("background.jpg");
+     background-position: center;
+     background-size: cover;
+}
+canvas
+{
+    border-radius: 30px;
+    box-shadow: 50px 50px 50px rgb(0, 247, 255);
+    margin-top: 450px;
+}
